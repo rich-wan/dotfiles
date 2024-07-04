@@ -2,6 +2,14 @@ set nocompatible
 
 set nu
 
-set  cursorline
+syntax on
 
-colorscheme desert
+set cursorline
+
+set ignorecase
+
+set noswapfile
+
+filetype indent on
+
+set hlsearch
